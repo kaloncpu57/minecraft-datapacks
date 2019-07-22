@@ -1,7 +1,7 @@
 # Cakewalk Data Pack
 
 ## Download
-[cakewalkv0.1.0.zip](/cakewalkv0.1.0.zip)
+[cakewalkv0.1.0.zip](/cakewalk/cakewalkv0.1.0.zip)
 
 
 ## Installing and Explanation
